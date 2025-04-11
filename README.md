@@ -1,6 +1,6 @@
 ### Hi there, I am Filipe Cancellier da Costa 👋
 
-Web Developer student at <a href="https://skills.cogrammar.com/">CoGrammar</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ## :bookmark: About
 
