@@ -6,7 +6,7 @@ Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 I am a Civil Engineer and my professional career can be summarized in civil engineering related jobs. However, I have decided to challenge myself and learn something new, like coding. :computer:
 
-I have always enjoyed computers, games and technology, so I thought "Why not try coding? ", and so, I did. I have been teaching myself coding for web development for a while and now, with CoGrammar bootcamp, I am aiming to improve my skills to a competitive level and achieve my first job in the tech industry.
+I have always enjoyed computers, games and technology, so I thought "Why not try coding? ", and so, I did. I have been teaching myself coding for web development for a while and now. I am aiming to improve my skills to a competitive level and achieve my first job in the tech industry.
 
 I am motivated to learn new technologies, always in constant professional development, quickly learning problem-solving, with great interest in web-dev.
 
